@@ -1,4 +1,5 @@
-# WEEK-13-IP
+# Online Adverstisement and E-Commerce
+
 This is a project that entails 2 data analysis and building of models for 2 data problems.
 
 The first one is a project that entails data analysis with R. The project involves analysis data provided by a Kenyan Entrepreneur who owns a blog and would like to understand the statistics of her audience in order to identify the individuals who are more likely to click on her ads. The project also comprises of Supervised Learning models to aid in predicting individuals who would click on the entrepreneur's ads.
